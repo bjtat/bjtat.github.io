@@ -2,9 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://bjtat.github.io/about/</loc>
+    <lastmod>2022-12-18T15:55:32-08:00</lastmod>
+  </url><url>
     <loc>https://bjtat.github.io/</loc>
+    <lastmod>2022-12-18T14:57:18-08:00</lastmod>
+  </url><url>
+    <loc>https://bjtat.github.io/posts/my-second-post/</loc>
+    <lastmod>2022-12-18T14:57:18-08:00</lastmod>
+  </url><url>
+    <loc>https://bjtat.github.io/posts/</loc>
+    <lastmod>2022-12-18T14:57:18-08:00</lastmod>
+  </url><url>
+    <loc>https://bjtat.github.io/posts/my-first-post/</loc>
+    <lastmod>2022-12-18T13:14:32-08:00</lastmod>
   </url><url>
     <loc>https://bjtat.github.io/categories/</loc>
+  </url><url>
+    <loc>https://bjtat.github.io/contact/</loc>
   </url><url>
     <loc>https://bjtat.github.io/tags/</loc>
   </url>

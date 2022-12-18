@@ -1,4 +1,8 @@
 baseURL = 'https://bjtat.github.io'
 languageCode = 'en-us'
-title = 'bjtat-homepage'
-theme = 'ananke'
+title = 'bjtat'
+theme = "PaperMod"
+resourceDir = "../resources"
+
+DefaultContentLanguage = "en"
+SectionPagesMenu = "main"

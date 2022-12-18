@@ -1,6 +1,6 @@
 ---
-title: "My First Post"
-date: 2022-12-18T13:14:32-08:00
+title: "My Second Post"
+date: 2022-12-18T14:57:18-08:00
 draft: false
 ---
 
@@ -9,3 +9,5 @@ draft: false
 This is **bold** text, and this is *emphasized* text.
 
 Visit the [Hugo](https://gohugo.io) website!
+
+second post thinking
