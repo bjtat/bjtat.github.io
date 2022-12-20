@@ -1,0 +1,43 @@
+baseURL: "https://bjtat.github.io" # if your site is in 'https', then make sure your base url isn't written using 'http' otherwise your sitemap would contain http (as opposeed to https) URLs. This would affect Google indexing of your URLs.
+title: bjtat
+paginate: 5
+theme: PaperMod
+
+menu:
+    main:
+        - name: About
+          url: about
+          weight: 5
+        - name: Contact
+          url: contact
+          weight: 5
+        - name: Search
+          url: search/
+          weight: 5
+        - name: Archive
+          url: archive/
+          weight: 5
+
+params:
+  profileMode:
+      enabled: true
+      title: Brandon Tat
+      imageUrl: "https://avatars.githubusercontent.com/u/27231381"
+      imageTitle: ProfileMode image
+      # imageWidth: 120
+      # imageHeight: 120
+      subtitle: "Some random software engineer"
+      buttons:
+          - name: Blog
+            url: posts
+  socialIcons:
+      - name: github
+        url: "https://github.com/bjtat"
+      - name: linkedin
+        url: "https://linkedin.com/in/bjtat"
+
+outputs:
+    home:
+        - HTML
+        - RSS
+        - JSON
