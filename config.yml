@@ -26,7 +26,7 @@ params:
       imageTitle: ProfileMode image
       # imageWidth: 120
       # imageHeight: 120
-      subtitle: "A young software engineer in the bay area"
+      subtitle: "Yet another software engineer in the bay area"
       buttons:
           - name: Blog
             url: posts
